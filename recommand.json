@@ -1,14 +1,16 @@
 [
     {
-        "name": "덴드렉소 페이셜케어 솔루션 브라이트닝 세럼 40ml",
+        "name": "덴드렉소 페이셜케어 솔루션 브라이트닝 세럼",
         "detail": "황칠잎 엑소좀을 함유한 산뜻한 세럼으로, 피부진정과 브라이트닝에 도움을 줍니다. 가볍고 산뜻한 피부를 표현하고 싶을 때 피부의 겉과 속에 유수분을 충전하여 피부를 투명하고 밝게 가꾸는 데 도움을 줄 수 있습니다.",
+        "volume":40,
         "price": 34200,
         "imgLink": "https://cdn.nxcloud.biz/thumb/20220215/600x600_620b0c3e79a08.jpg",
         "pageLink": "https://wellexobio.com/shop/read.php?M2_IDX=24361&SC_SC1_IDX=&SC_SC2_IDX=&SC_WORD=&SC_PA_LEN=&SP_CODE=2202609V"
     },
     {
-        "name": "덴드렉소 페이셜케어 솔루션 브라이트닝 크림 50ml",
+        "name": "덴드렉소 페이셜케어 솔루션 브라이트닝 크림",
         "detail": "황칠나무잎 엑소좀을 함유한 부드러운 크림으로, 피부진정과 브라이트닝에 도움을 줍니다. 피부에 생기를 주고 매끄러운 피부를 원할 때 크림의 풍부한 영양으로 피부에 건강과 부드러움을 선사합니다.",
+        "volume":50,
         "price": 43200,
         "imgLink": "https://cdn.nxcloud.biz/thumb/20220215/600x600_620b0a34dc3fd.jpg",
         "pageLink": "https://wellexobio.com/shop/read.php?M2_IDX=24361&SC_SC1_IDX=&SC_SC2_IDX=&SC_WORD=&SC_PA_LEN=&SP_CODE=2202UKEU"
