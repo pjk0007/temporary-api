@@ -1,0 +1,251 @@
+{
+    "SurveyResultDto": {
+        "surveyResultDtoList": [
+            {
+                "surveyId": 862,
+                "userId": 4849,
+                "questionnaireId": 5431,
+                "skinType": "색소 침착 타입",
+                "skinDescription": "색소 침착이 많은 타입",
+                "score": [
+                    {
+                        "score": 0.21153846153846154,
+                        "classIndex": 1,
+                        "className": "유분도"
+                    },
+                    {
+                        "score": 0.20930232558139536,
+                        "classIndex": 2,
+                        "className": "수분도"
+                    },
+                    {
+                        "score": 0.18181818181818182,
+                        "classIndex": 3,
+                        "className": "민감도"
+                    },
+                    {
+                        "score": 0.0,
+                        "classIndex": 4,
+                        "className": "색소도"
+                    },
+                    {
+                        "score": 0.32,
+                        "classIndex": 5,
+                        "className": "탄력도"
+                    }
+                ],
+                "advice": null
+            },
+            {
+                "surveyId": 863,
+                "userId": 4849,
+                "questionnaireId": 5431,
+                "skinType": "색소 침착 타입",
+                "skinDescription": "색소 침착이 많은 타입",
+                "score": [
+                    {
+                        "score": 0.25,
+                        "classIndex": 1,
+                        "className": "유분도"
+                    },
+                    {
+                        "score": 0.23255813953488372,
+                        "classIndex": 2,
+                        "className": "수분도"
+                    },
+                    {
+                        "score": 0.22727272727272727,
+                        "classIndex": 3,
+                        "className": "민감도"
+                    },
+                    {
+                        "score": 0.2,
+                        "classIndex": 4,
+                        "className": "색소도"
+                    },
+                    {
+                        "score": 0.4,
+                        "classIndex": 5,
+                        "className": "탄력도"
+                    }
+                ],
+                "advice": null
+            },
+            {
+                "surveyId": 864,
+                "userId": 4849,
+                "questionnaireId": 5431,
+                "skinType": "색소 침착 타입",
+                "skinDescription": "색소 침착이 많은 타입",
+                "score": [
+                    {
+                        "score": 0.17307692307692307,
+                        "classIndex": 1,
+                        "className": "유분도"
+                    },
+                    {
+                        "score": 0.23255813953488372,
+                        "classIndex": 2,
+                        "className": "수분도"
+                    },
+                    {
+                        "score": 0.4090909090909091,
+                        "classIndex": 3,
+                        "className": "민감도"
+                    },
+                    {
+                        "score": 0.3333333333333333,
+                        "classIndex": 4,
+                        "className": "색소도"
+                    },
+                    {
+                        "score": 0.2,
+                        "classIndex": 5,
+                        "className": "탄력도"
+                    }
+                ],
+                "advice": null
+            },
+            {
+                "surveyId": 865,
+                "userId": 4849,
+                "questionnaireId": 5431,
+                "skinType": "색소 침착 타입",
+                "skinDescription": "색소 침착이 많은 타입",
+                "score": [
+                    {
+                        "score": 0.21153846153846154,
+                        "classIndex": 1,
+                        "className": "유분도"
+                    },
+                    {
+                        "score": 0.23255813953488372,
+                        "classIndex": 2,
+                        "className": "수분도"
+                    },
+                    {
+                        "score": 0.4090909090909091,
+                        "classIndex": 3,
+                        "className": "민감도"
+                    },
+                    {
+                        "score": 0.2,
+                        "classIndex": 4,
+                        "className": "색소도"
+                    },
+                    {
+                        "score": 0.2,
+                        "classIndex": 5,
+                        "className": "탄력도"
+                    }
+                ],
+                "advice": null
+            },
+            {
+                "surveyId": 866,
+                "userId": 4849,
+                "questionnaireId": 5431,
+                "skinType": "색소 침착 타입",
+                "skinDescription": "색소 침착이 많은 타입",
+                "score": [
+                    {
+                        "score": 0.17307692307692307,
+                        "classIndex": 1,
+                        "className": "유분도"
+                    },
+                    {
+                        "score": 0.18604651162790697,
+                        "classIndex": 2,
+                        "className": "수분도"
+                    },
+                    {
+                        "score": 0.45454545454545453,
+                        "classIndex": 3,
+                        "className": "민감도"
+                    },
+                    {
+                        "score": 0.13333333333333333,
+                        "classIndex": 4,
+                        "className": "색소도"
+                    },
+                    {
+                        "score": 0.12,
+                        "classIndex": 5,
+                        "className": "탄력도"
+                    }
+                ],
+                "advice": null
+            },
+            {
+                "surveyId": 867,
+                "userId": 4849,
+                "questionnaireId": 5431,
+                "skinType": "색소 침착 타입",
+                "skinDescription": "색소 침착이 많은 타입",
+                "score": [
+                    {
+                        "score": 0.17307692307692307,
+                        "classIndex": 1,
+                        "className": "유분도"
+                    },
+                    {
+                        "score": 0.18604651162790697,
+                        "classIndex": 2,
+                        "className": "수분도"
+                    },
+                    {
+                        "score": 0.3181818181818182,
+                        "classIndex": 3,
+                        "className": "민감도"
+                    },
+                    {
+                        "score": 0.2,
+                        "classIndex": 4,
+                        "className": "색소도"
+                    },
+                    {
+                        "score": 0.24,
+                        "classIndex": 5,
+                        "className": "탄력도"
+                    }
+                ],
+                "advice": null
+            },
+            {
+                "surveyId": 871,
+                "userId": 4849,
+                "questionnaireId": 5431,
+                "skinType": "색소 침착 타입",
+                "skinDescription": "색소 침착이 많은 타입",
+                "score": [
+                    {
+                        "score": 0.19230769230769232,
+                        "classIndex": 1,
+                        "className": "유분도"
+                    },
+                    {
+                        "score": 0.11627906976744186,
+                        "classIndex": 2,
+                        "className": "수분도"
+                    },
+                    {
+                        "score": 0.13636363636363635,
+                        "classIndex": 3,
+                        "className": "민감도"
+                    },
+                    {
+                        "score": 0.26666666666666666,
+                        "classIndex": 4,
+                        "className": "색소도"
+                    },
+                    {
+                        "score": 0.24,
+                        "classIndex": 5,
+                        "className": "탄력도"
+                    }
+                ],
+                "advice": null
+            }
+        ]
+    }
+}
